@@ -1,2 +1,2 @@
 # PythonInterpreter
- This is a python interpreter of a pascal-like language 
+ This is a python interpreter of a pascal-like language. The full interpreter is accomplished in four parts. The first part is the lexical analyzer, the second part is the parser, the third part accomplishes some basic calculation of expressions for the pascal like language, and the last part executes more computations of the pascal like language like loops and if-then statements.
